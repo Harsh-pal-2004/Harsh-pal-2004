@@ -1,19 +1,21 @@
-👋 Hi, I'm Harsh Pal
+# Hi 👋, I'm Harsh Pal
 
-💻 Frontend Developer | MERN Stack | Building Scalable Web Apps
+💻 Full Stack Developer (MERN) | Frontend Focused  
 
-🚀 About Me
-🎓 BCA Student (IGNOU)
-⚡ Building SkillXChange – a real-world skill-sharing platform
-🌱 Focused on React, Backend Systems & Real-time Apps
-🎯 Goal: Full Stack Developer with strong system design skills
-🛠️ Tech Stack
+🔭 I’m currently working on **SkillXChange (Skill-sharing platform)**  
+🌱 I’m currently learning **Backend Architecture, WebRTC, System Design**  
 
-Frontend: React.js, Vite, Tailwind CSS, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB
-Tools: Git, Postman, Axios, JWT, Socket.IO
+📫 How to reach me: **palharsh8860282160@gmail.com**
 
-📫 Connect
-📧 palharsh8860282160@gmail.com
-📱 +91-8860282160
+---
+
+## 🚀 Connect with me:
+[LinkedIn](#) | [Instagram](#) | [Gmail](mailto:palharsh8860282160@gmail.com)
+
+---
+
+## 🛠️ Tech Stack:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman" />
+</p>
