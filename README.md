@@ -1,27 +1,32 @@
-# Hi 👋, I'm Harsh Pal
+# Harsh Pal 👋
 
-### 💻 Frontend Developer | MERN Stack
-
----
-
-### 🚀 About Me
-- 🔭 Working on **SkillXChange**
-- 🌱 Learning **React, Backend, WebRTC**
-- ⚡ Focused on becoming a **Full Stack Developer**
+💻 Frontend Developer • MERN Stack
 
 ---
 
-### 📬 Contact
-- 📧 palharsh8860282160@gmail.com  
-- 🔗 https://www.linkedin.com/in/harsh-pal-2004-/
+🚀 Building **SkillXChange**  
+🌱 Learning **React, Backend, WebRTC**
 
 ---
 
-### 🛠️ Tech Stack
-HTML • CSS • JavaScript • React • Tailwind  
-Node.js • Express • MongoDB  
+🛠️ Tech Stack  
+
+Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=palha&show_icons=true)
+📫 palharsh8860282160@gmail.com  
+🔗 https://www.linkedin.com/in/harsh-pal-2004-/
