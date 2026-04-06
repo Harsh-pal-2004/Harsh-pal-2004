@@ -1,21 +1,27 @@
 # Hi 👋, I'm Harsh Pal
 
-💻 Full Stack Developer (MERN) | Frontend Focused  
-
-🔭 I’m currently working on **SkillXChange (Skill-sharing platform)**  
-🌱 I’m currently learning **Backend Architecture, WebRTC, System Design**  
-
-📫 How to reach me: **palharsh8860282160@gmail.com**
+### 💻 Frontend Developer | MERN Stack
 
 ---
 
-## 🚀 Connect with me:
-[LinkedIn](#) | [Instagram](#) | [Gmail](mailto:palharsh8860282160@gmail.com)
+### 🚀 About Me
+- 🔭 Working on **SkillXChange**
+- 🌱 Learning **React, Backend, WebRTC**
+- ⚡ Focused on becoming a **Full Stack Developer**
 
 ---
 
-## 🛠️ Tech Stack:
+### 📬 Contact
+- 📧 palharsh8860282160@gmail.com  
+- 🔗 https://www.linkedin.com/in/harsh-pal-2004-/
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman" />
-</p>
+---
+
+### 🛠️ Tech Stack
+HTML • CSS • JavaScript • React • Tailwind  
+Node.js • Express • MongoDB  
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=palha&show_icons=true)
